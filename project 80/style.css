@@ -1,0 +1,36 @@
+input{
+    border-width: 5px;
+    border-color: lightcoral;
+   
+    border-radius: 15px;
+}
+
+span{
+    margin-left: 200px;
+}
+
+body{
+    background-color: rgb(140, 230, 225);
+    align-items: center;
+
+}
+
+h1{
+    text-align: center;
+    color:rgb(146, 78, 78);
+    font-size: 40px;
+    text-shadow: rgb(223, 125, 125);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+button{
+    background-color: lightseagreen;
+    border-width: 5px;
+    border-radius: 15px;
+    margin-left: 200px;
+}
+
+div{
+    margin-left: 200px;
+}
